@@ -1,0 +1,10 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"Hochfelln SP","SP",,4745.686N,01233.570E,1642.253662m,,,,,""
+"Steinplatte","L1R1",,4736.188N,01235.685E,1716.693115m,,,,,""
+"Pinzgau Eingang","L1R2",,4718.909N,01219.316E,1536.046265m,,,,,""
+"Gerlos","T1",,4715.295N,01203.722E,1775.053833m,,,,,""
+"Gastein","T2",,4715.813N,01302.046E,1434.304443m,,,,,""
+"Hochkoenig","L3R1",,4731.083N,01251.774E,2053.639893m,,,,,""
+"Hochfelln LP","GOAL",,4747.983N,01235.594E,575.645325m,,,,,""
+-----Related Tasks-----
+,"SP","L1R1","L1R2","T1","T2","L3R1","GOAL"
